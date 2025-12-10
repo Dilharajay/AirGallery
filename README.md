@@ -132,12 +132,12 @@ Press Ctrl+C to stop the server
 ### Interface Overview
 
 #### Welcome Screen
-![Welcome Screen](https://via.placeholder.com/800x500/0a0a0a/3b82f6?text=Welcome+Screen)
+![Welcome Screen](https://drive.google.com/file/d/1GQ213DXnJJwHUOWF9RSq1nuU73W6_9ig/view?usp=sharing)
 
 - Click **"Open Gallery"** to enter
 
 #### Gallery View
-![Gallery View](https://via.placeholder.com/800x500/0a0a0a/ffffff?text=Gallery+Grid)
+![Gallery View](https://drive.google.com/file/d/1QNS5KhCanVRJkkp6sFgathg3JBO0ycQA/view?usp=sharing)
 
 - **Masonry grid layout** (Pinterest-style)
 - **Hover effects** on desktop
@@ -149,7 +149,7 @@ Press Ctrl+C to stop the server
   - RGB histogram
 
 #### Fullscreen View
-![Fullscreen View](https://via.placeholder.com/800x500/000000/ffffff?text=Fullscreen+View)
+![Fullscreen View](https://drive.google.com/file/d/1KvNm_TlkGlGO9T7C29tt7tZRiX5mFnfg/view?usp=sharing)
 
 - **Click any image** to view fullscreen
 - **Sidebar** (desktop only) shows:
