@@ -334,7 +334,7 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**.
 
@@ -372,21 +372,18 @@ See [LICENSE](LICENSE) file for full details.
 ### Maintainer
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- GitHub: [@dilharajay](https://github.com/dilharajay)
+- linkedin: [dilharapjayawardhana](https://www.linkedin.com/in/dilharapjayawardhana/)
 
 ### Support
 
-- **Issues:** [GitHub Issues](https://github.com/yourusername/image-gallery-server/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/image-gallery-server/discussions)
-- **Email:** your.email@example.com
+- **Issues:** [GitHub Issues](https://github.com/dilharajay/airgallery/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/dilharajay/airgallery/discussions)
 
 ### Links
 
-- **Repository:** [https://github.com/yourusername/image-gallery-server](https://github.com/yourusername/image-gallery-server)
+- **Repository:** [https://github.com/yourusername/image-gallery-server](https://github.com/dilharajay/airgallery)
 - **Demo:** [Coming soon]
-- **Changelog:** [CHANGELOG.md](CHANGELOG.md)
 
 ---
 
@@ -402,11 +399,11 @@ If you find this project useful, please consider:
 
 ---
 
-## 📊 Stats
+## Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/image-gallery-server?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/image-gallery-server?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/image-gallery-server?style=social)
+![GitHub stars](https://img.shields.io/github/stars/dilharajay/airgallery?style=social)
+![GitHub forks](https://img.shields.io/github/forks/dilharajay/airgallery?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/dilharajay/airgallery?style=social)
 
 ---
 
