@@ -61,7 +61,7 @@ I developed this web application to utilize my mobile device as a wireless refer
 
 1. **Download the script**
    
-   Save `image_gallery_server.py` to any folder containing images.
+   Save `server.py` to any folder containing images.
 
 2. **Install Pillow (Optional but Recommended)**
    
@@ -91,7 +91,7 @@ cd /path/to/your/images
 
 # Place the script in the same folder
 # Then run:
-python image_gallery_server.py
+python server.py
 ```
 
 That's it! The server will start and display the access URLs.
@@ -103,13 +103,13 @@ That's it! The server will start and display the access URLs.
 ### Starting the Server
 
 ```bash
-python image_gallery_server.py
+python server.py
 ```
 
 **Output:**
 ```
 ============================================================
-Image Gallery Server Started
+AirGallery Server Started
 ============================================================
 Local access:   http://localhost:8000
 Network access: http://192.168.1.100:8000
@@ -200,7 +200,7 @@ The server binds to `0.0.0.0` (all network interfaces) by default. This is safe 
 ```
 your-image-folder/
 │
-├── image_gallery_server.py    # Main server script (single file)
+├── server.py    # Main server script (single file)
 ├── image1.jpg                  # Your images
 ├── image2.png
 ├── photo.webp
@@ -212,7 +212,7 @@ your-image-folder/
 ### Script Architecture
 
 ```
-image_gallery_server.py
+server.py
 │
 ├── Import Section
 │   ├── Standard library (http.server, json, etc.)
