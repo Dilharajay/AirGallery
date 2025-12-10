@@ -382,7 +382,7 @@ See [LICENSE](LICENSE) file for full details.
 
 ### Links
 
-- **Repository:** [https://github.com/yourusername/image-gallery-server](https://github.com/dilharajay/airgallery)
+- **Repository:** [https://github.com/dilharajay/airgallery](https://github.com/dilharajay/airgallery)
 - **Demo:** [Coming soon]
 
 ---
